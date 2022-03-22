@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <string-array name="soSinhVien">-->
+<!--        <item>Tất cả</item>-->
+<!--        <item>Lớn hơn 5 sinh viên</item>-->
+<!--    </string-array>-->
+    <string-array name="soNamKinhNghiem">
+        <item>Tất cả</item>
+        <item>Lớn hơn 10 năm và nhiều hơn 5 sinh viên </item>
+    </string-array>
+</resources>
